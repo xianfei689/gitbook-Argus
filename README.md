@@ -77,5 +77,5 @@
 
 ![](.gitbook/assets/image.png)
 
-
+图片资源地址：[https://gitee.com/zhouxianfei/zhouxf.front.doc/attach\_files](https://gitee.com/zhouxianfei/zhouxf.front.doc/attach_files)
 
